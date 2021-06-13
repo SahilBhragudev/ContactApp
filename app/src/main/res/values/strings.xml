@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactBook</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_address">Enter your address</string>
+</resources>
